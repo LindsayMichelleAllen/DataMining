@@ -1,0 +1,28 @@
+**********************************RESULTS***********************************
+
+Success! the projected score is: 0.12411347517730498
+
+----------------------------------------------------------------------------
+
+			Strengths:
+Attribute: Action | Positive Impact: 0.1702127659574468
+Attribute: Open World | Positive Impact: 0.11170212765957446
+Attribute: FPS | Positive Impact: 0.09042553191489362
+Attribute: RPG | Positive Impact: 0.0851063829787234
+
+
+			Suggested Design Modifications:
+Attribute: Indie | Negative Impact: -0.2857142857142857
+Attribute: Violent | Negative Impact: -0.047619047619047616
+
+
+----------------------------------------------------------------------------
+Title: Proposed Game
+Game ID: 123456789
+Attributes:
+Post-apocalyptic | RPG | First-Person | First Person Shooter | FPS | 
+Third-Person | Third Person Shooter | Shooter | Violent | Action | 
+Puzzle | Magic | Sci-fi | Scifi | Single Player | 
+Adventure | Large Map | Open World | Horror | Free | 
+Free To Play | Male Lead | Female Lead | Indie | 
+----------------------------------------------------------------------------

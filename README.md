@@ -1,2 +1,2 @@
-# DataMining
-Cpts 315 | WSU | Fall 2019
+# 315_PAs
+CptS 315 - Intro to Data Mining PAs
